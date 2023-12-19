@@ -2128,19 +2128,19 @@ Location,Industry,Edition,Category,Subcategory,Hierarchy_Level,Data_Type,Outlet,
 7,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Other Grocery Retailers,3,million litres,2019,12/31/2019,224.6598554
 7,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Other Grocery Retailers,3,million litres,2020,12/31/2020,222.1009716
 7,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Other Grocery Retailers,3,million litres,2021,12/31/2021,219.7403424
-1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2007,12/31/2007,6.63E-08
-1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2008,12/31/2008,6.68E-09
-1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2009,12/31/2009,1.00E-08
-1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2010,12/31/2010,5.36E-09
-1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2011,12/31/2011,6.75E-10
-1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2012,12/31/2012,1.08E-07
-1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2013,12/31/2013,1.80E-07
-1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2014,12/31/2014,5.28E-08
-1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2015,12/31/2015,2.54E-07
-1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2016,12/31/2016,8.29E-06
-1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2017,12/31/2017,8.54E-05
-1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2018,12/31/2018,6.28E-08
-1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2019,12/31/2019,2.19E-06
+1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2007,12/31/2007,6.63e-08
+1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2008,12/31/2008,6.68e-09
+1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2009,12/31/2009,1e-08
+1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2010,12/31/2010,5.36e-09
+1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2011,12/31/2011,6.75e-10
+1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2012,12/31/2012,1.08e-07
+1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2013,12/31/2013,1.8e-07
+1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2014,12/31/2014,5.28e-08
+1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2015,12/31/2015,2.54e-07
+1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2016,12/31/2016,8.29e-06
+1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2017,12/31/2017,8.54e-05
+1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2018,12/31/2018,6.28e-08
+1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2019,12/31/2019,2.19e-06
 1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2020,12/31/2020,0.00095071
 1,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2021,12/31/2021,0.001032465
 2,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Other Grocery Retailers,3,000 litres,2020,12/31/2020,0.132514289
@@ -3536,16 +3536,16 @@ Location,Industry,Edition,Category,Subcategory,Hierarchy_Level,Data_Type,Outlet,
 5,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,million litres,2019,12/31/2019,42.49865256
 5,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,million litres,2020,12/31/2020,42.852081
 5,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,million litres,2021,12/31/2021,45.69304674
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2007,12/31/2007,9.40E-07
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2008,12/31/2008,1.02E-06
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2009,12/31/2009,1.09E-06
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2010,12/31/2010,1.18E-06
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2011,12/31/2011,1.35E-06
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2012,12/31/2012,1.24E-06
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2013,12/31/2013,1.62E-06
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2014,12/31/2014,2.01E-06
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2015,12/31/2015,2.18E-06
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2016,12/31/2016,3.55E-06
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2007,12/31/2007,9.4e-07
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2008,12/31/2008,1.02e-06
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2009,12/31/2009,1.09e-06
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2010,12/31/2010,1.18e-06
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2011,12/31/2011,1.35e-06
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2012,12/31/2012,1.24e-06
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2013,12/31/2013,1.62e-06
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2014,12/31/2014,2.01e-06
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2015,12/31/2015,2.18e-06
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2016,12/31/2016,3.55e-06
 5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2017,12/31/2017,0.001490783
 5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2018,12/31/2018,0.000975069
 5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Other Non-Grocery Alcoholic Drinks Specialists,3,000 litres,2019,12/31/2019,0.001285886
@@ -4057,8 +4057,8 @@ Location,Industry,Edition,Category,Subcategory,Hierarchy_Level,Data_Type,Outlet,
 5,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Direct Selling,2,million litres,2013,12/31/2013,0.000869806
 5,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Direct Selling,2,million litres,2014,12/31/2014,0.000973905
 5,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Direct Selling,2,million litres,2015,12/31/2015,0.001328476
-5,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Direct Selling,2,million litres,2016,12/31/2016,7.20E-05
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Direct Selling,2,000 litres,2007,12/31/2007,1.67E-07
+5,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Direct Selling,2,million litres,2016,12/31/2016,7.2e-05
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Direct Selling,2,000 litres,2007,12/31/2007,1.67e-07
 5,Alcoholic Drinks,2022,Wine,Wine,1,Off-trade Volume,Direct Selling,2,million litres,2007,12/31/2007,0.593238803
 5,Alcoholic Drinks,2022,Wine,Wine,1,Off-trade Volume,Direct Selling,2,million litres,2008,12/31/2008,0.523667661
 5,Alcoholic Drinks,2022,Wine,Wine,1,Off-trade Volume,Direct Selling,2,million litres,2009,12/31/2009,0.496260691
@@ -4127,7 +4127,7 @@ Location,Industry,Edition,Category,Subcategory,Hierarchy_Level,Data_Type,Outlet,
 4,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Homeshopping,2,million litres,2019,12/31/2019,0.05547587
 4,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Homeshopping,2,million litres,2020,12/31/2020,0.052378635
 4,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Homeshopping,2,million litres,2021,12/31/2021,0.047593012
-4,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Homeshopping,2,000 litres,2015,12/31/2015,5.79E-05
+4,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Homeshopping,2,000 litres,2015,12/31/2015,5.79e-05
 4,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Homeshopping,2,000 litres,2016,12/31/2016,0.00013096
 4,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Homeshopping,2,000 litres,2017,12/31/2017,0.001375045
 4,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Homeshopping,2,000 litres,2018,12/31/2018,0.001448357
@@ -4263,21 +4263,21 @@ Location,Industry,Edition,Category,Subcategory,Hierarchy_Level,Data_Type,Outlet,
 7,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Vending,2,million litres,2019,12/31/2019,0.255307899
 7,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Vending,2,million litres,2020,12/31/2020,0.202166016
 7,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Vending,2,million litres,2021,12/31/2021,0.216855837
-7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2007,12/31/2007,5.54E-06
-7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2008,12/31/2008,6.20E-06
-7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2009,12/31/2009,5.94E-06
-7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2010,12/31/2010,4.72E-06
-7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2011,12/31/2011,3.70E-06
-7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2012,12/31/2012,3.57E-06
-7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2013,12/31/2013,3.51E-06
-7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2014,12/31/2014,1.69E-06
-7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2015,12/31/2015,8.31E-07
-7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2016,12/31/2016,4.06E-07
-7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2017,12/31/2017,3.21E-07
-7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2018,12/31/2018,2.97E-07
-7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2019,12/31/2019,2.95E-07
-7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2020,12/31/2020,3.31E-07
-7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2021,12/31/2021,4.26E-07
+7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2007,12/31/2007,5.54e-06
+7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2008,12/31/2008,6.2e-06
+7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2009,12/31/2009,5.94e-06
+7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2010,12/31/2010,4.72e-06
+7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2011,12/31/2011,3.7e-06
+7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2012,12/31/2012,3.57e-06
+7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2013,12/31/2013,3.51e-06
+7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2014,12/31/2014,1.69e-06
+7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2015,12/31/2015,8.31e-07
+7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2016,12/31/2016,4.06e-07
+7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2017,12/31/2017,3.21e-07
+7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2018,12/31/2018,2.97e-07
+7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2019,12/31/2019,2.95e-07
+7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2020,12/31/2020,3.31e-07
+7,Alcoholic Drinks,2022,Cider/Perry,Cider/Perry,1,Off-trade Volume,Vending,2,000 litres,2021,12/31/2021,4.26e-07
 7,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Vending,2,000 litres,2007,12/31/2007,0.019726891
 7,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Vending,2,000 litres,2008,12/31/2008,0.021398293
 7,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Vending,2,000 litres,2009,12/31/2009,0.020069703
@@ -4443,16 +4443,16 @@ Location,Industry,Edition,Category,Subcategory,Hierarchy_Level,Data_Type,Outlet,
 5,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Non-Grocery Specialists,2,million litres,2019,12/31/2019,42.49865256
 5,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Non-Grocery Specialists,2,million litres,2020,12/31/2020,42.852081
 5,Alcoholic Drinks,2022,Beer,Beer,1,Off-trade Volume,Non-Grocery Specialists,2,million litres,2021,12/31/2021,45.69304674
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2007,12/31/2007,9.40E-07
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2008,12/31/2008,1.02E-06
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2009,12/31/2009,1.09E-06
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2010,12/31/2010,1.18E-06
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2011,12/31/2011,1.35E-06
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2012,12/31/2012,1.24E-06
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2013,12/31/2013,1.62E-06
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2014,12/31/2014,2.01E-06
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2015,12/31/2015,2.18E-06
-5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2016,12/31/2016,3.55E-06
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2007,12/31/2007,9.4e-07
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2008,12/31/2008,1.02e-06
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2009,12/31/2009,1.09e-06
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2010,12/31/2010,1.18e-06
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2011,12/31/2011,1.35e-06
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2012,12/31/2012,1.24e-06
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2013,12/31/2013,1.62e-06
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2014,12/31/2014,2.01e-06
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2015,12/31/2015,2.18e-06
+5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2016,12/31/2016,3.55e-06
 5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2017,12/31/2017,0.001490783
 5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2018,12/31/2018,0.000975069
 5,Alcoholic Drinks,2022,RTDs/High-Strength Premixes,RTDs/High-Strength Premixes,1,Off-trade Volume,Non-Grocery Specialists,2,000 litres,2019,12/31/2019,0.001285886
